@@ -113,7 +113,7 @@ Hide your IP address
 
 ### Video
 
-- [jitzi](https://jitsi.org/) - Secure open source video conferencing.
+- [jitsi](https://jitsi.org/) - Secure open source video conferencing.
 
 ### Email
 
@@ -155,13 +155,15 @@ Hide your IP address
 
 ## File hosting
 
-### Backup
+### Drives & Backup
 
 - [Synqion (Formerly TeamDrive)](https://synqion.com) - Cloud back up certified by the Independent Regional Centre for Data Protection of Schleswig-Holstein.
 - [Tresorit](https://tresorit.com) - Cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption.
 - [SpiderOak](https://spideroak.com) - Cloud back up with client side decryption only.
 - [NextCloud](https://nextcloud.com) - Open source, self-hosted file share and communication platform based in Germany.
 - [Least Authority S4](https://leastauthority.com/) - think AWS S3 but with client-side encrypted
+- [CryptPad](https://cryptpad.fr) - Open Source end to end encrypted drive & realtime document editing based in France
+
 
 ## Blogs
 
